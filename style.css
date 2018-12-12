@@ -1,0 +1,109 @@
+body {
+    padding-top: 30px;
+	color: black;
+	font-family: Helvetica, 'sans-serif';
+    background-color: #474e5d;
+}
+
+.layout {
+	width: 60%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+.nav {
+    color: #000000;
+    list-style: none;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    font-weight: bold;
+    background-color: white;
+    border-bottom: solid 2px darkred;
+    font-size: 25px;
+}
+
+ul{
+    padding: 0;
+    list-style: none;
+    background-color: white;
+}
+
+ul li {
+    display: inline-block;
+    position: relative;
+    line-height: 21px;
+}
+
+ul li a {
+    display: block;
+    padding: 8px 25px;
+    text-decoration: none;
+    color: #000000;
+}
+
+ul li a:hover{
+    color: darkred;
+}
+
+.active {
+    color: darkred;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.pic {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bio {
+    padding-top: 30px;
+}
+
+.bot{
+    padding-top: 20px;
+    clear: both;
+}
+
+.left {
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.right {
+    float: right;
+    margin: 0 20px 20px 0;
+}
+
+.center {
+    text-align: center;
+}
+
+.inline {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    clear: both;
+    color: darkred;
+	position:relative;
+	bottom:10px;
+	width:100%;
+	text-align:center;
+	border-top:solid 2px;
+	padding-top:30px;
+	font-size:12px;
+}

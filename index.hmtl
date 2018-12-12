@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset=utf-8 />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Jagger Badazz</title>
+</head>
+    <body>
+        <div class="layout">
+            <ul class="nav">
+                <li><a class="active" href="homepage.html">Home</a></li>
+                <li><a href="schedule.html">Schedule</a></li>
+                <li><a href="profiles.html">Character Profiles</a></li>
+                <li><a href="portfolio.html">Film Development</a></li>
+            </ul>
+
+            <h1>Jagger Badazz</h1>
+
+            <div class="pic">
+                <img class="pic" src="thumbnail.jpg" height="488.25" width="279">
+            </div>
+
+            <div class="bio">
+                <h2>About</h2>
+
+                <p>
+                My name is Jagger Badazz, I'm a very passionate 19 year old creator working towards becoming a Showrunner / Creative Producer. This September, I will be returning to Calarts for my second year studying Character Animation. I am currently interning at Six Point Harness animation studios and was previously working at Home Plate Entertainment under Bill Schultz. From illustrating children's books,  to making iOS apps with my friends, I have a wide array of experience. My favorite traditional and digital mediums are ink and Adobe Photoshop. When i'm not drawing or reading scripts until 4 a.m. I enjoy playing soccer and spending time with my friends.
+                </p>
+            </div>
+
+            <div class="bot">
+                <footer>
+                    <p>©2018 Jagger Badazz</p>
+                </footer>
+            </div>
+        </div>
+    </body>
+</html>
